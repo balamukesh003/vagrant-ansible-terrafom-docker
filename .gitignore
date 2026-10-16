@@ -9,7 +9,7 @@
 .viminfo
 .cache/
 .sudo_as_admin_successful
-
+actions-runner-*.tar*
 # SSH and secrets
 .ssh/
 *.pem
